@@ -31,7 +31,7 @@ gemini-invoice-reader/
 │   ├── __init__.py
 │   └── helper.py
 ├── sample_images/
-│   └── [invoice images]
+    └── [invoice images]
 ```
 
 
