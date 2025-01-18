@@ -40,5 +40,6 @@ gemini-invoice-reader/
 ```bash
 git clone https://github.com/yourusername/gemini-invoice-reader.git
 cd Invoice-Reader_Gemini-Pro
+pip install -r requirements.txt
 streamlit run app.py
 ```
